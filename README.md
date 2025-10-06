@@ -83,7 +83,7 @@ go build -o expeer.exe
 ### Quick Install
 
 ```bash
-go install github.com/yourusername/expeer@latest
+go install github.com/Akicou/expeer@latest
 ```
 
 ---
@@ -492,7 +492,7 @@ Contributions are welcome! Areas needing improvement:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/expeer.git
+git clone https://github.com/Akicou/expeer.git
 cd expeer
 
 # Build
@@ -555,7 +555,7 @@ This tool is intended for **legitimate reverse engineering, security research, a
 
 ## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/expeer/issues)
+- **Issues**: [GitHub Issues](https://github.com/Akicou/expeer/issues)
 - **Documentation**: See `/docs` folder (coming soon)
 - **Achievements**: [ACHIEVEMENT_99_PERCENT.md](ACHIEVEMENT_99_PERCENT.md)
 - **Test Results**: [TEST_RESULTS.md](TEST_RESULTS.md)
