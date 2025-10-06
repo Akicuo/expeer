@@ -75,7 +75,7 @@ Expeer is a sophisticated binary analysis and reverse engineering tool that anal
 ### Build from Source
 
 ```bash
-git clone https://github.com/yourusername/expeer.git
+git clone https://github.com/Akicou/expeer.git
 cd expeer
 go build -o expeer.exe
 ```
